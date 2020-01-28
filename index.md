@@ -11,8 +11,11 @@
 ## Etudiant en cybersécurité
 
 **Formation intensive** cybersécurité à Pop School Valenciennes.
+
 Musicien classique passé par le conservatoire et en reconversion professionnelle, à la recherche d'une pratique profesionnelle mêlant **curiosité, rigueur et exigence**.
+
 Je porte une grande importance à la capacité d'apprentissage, à l'autonomie et à la créativité, **soft skills** que j'ai eu à développer en profondeur lors de mes études musicales.
+
 Aujourd'hui, je me consacre pleinement à l'apprentissage de la cybersécurité, ayant conscience de l'importance de l'acquisition d'une bonne technique, de **hard skills** (Python, réseau (protocols, etc.), veille, etc.)
 
 ### Centres d'intérêt en cybersécurité
@@ -33,41 +36,18 @@ __Conservatoire du Grand Besançon__
 `2019-Aujourd'hui`
 __PopSchool Valenciennes__ Formation par E-Catalyst.
 
-## Publications
+### Outils
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Python, wireshark, nmap, burpsuite, metasploit, ettercap, etc.
 
-### Journals
+Linux, apprentissage d'OpenBSD, etc.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Langues
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Pratique courante de l'Anglais (compréhension, expression écrite).
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Dernière mise à jour : Janvier 2020 -->
 
 
