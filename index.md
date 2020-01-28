@@ -1,11 +1,5 @@
 # Adrien VUILLEMIN
-13 rue Faidherbe 59410 ANZIN
-
-06 32 15 70 26
-<div id="webaddress">
-<a href="adrien_vuillemin@protonmail.com">adrien_vuillemin@protonmail.com</a>
-</div>
-
+13 rue Faidherbe 59410 ANZIN | 06 32 15 70 26 | adrien_vuillemin@protonmail.com
 
 
 ## Etudiant en cybersécurité
