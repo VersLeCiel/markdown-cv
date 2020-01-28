@@ -46,6 +46,10 @@ Linux, apprentissage d'OpenBSD, etc.
 
 Pratique courante de l'Anglais (compréhension, expression écrite).
 
+## Centres d'intérêt 
+
+Méthode Feldenkrais (travail sur la neuroplasticité) | Yoga | Musique, musées, lecture 
+
 <!-- ### Footer
 
 Dernière mise à jour : Janvier 2020 -->
