@@ -1,5 +1,6 @@
 # Adrien VUILLEMIN
 *13 rue Faidherbe 59410 ANZIN*
+
 *06 32 15 70 26*
 <div id="webaddress">
 <a href="adrien_vuillemin@protonmail.com">adrien_vuillemin@protonmail.com</a>
@@ -7,9 +8,9 @@
 
 
 
-## Currently
+## Etudiant en cybersécurité
 
-Standing on the shoulders of giants
+**Formation intensive** cybersécurité à Pop School Valenciennes.
 
 ### Specialized in
 
